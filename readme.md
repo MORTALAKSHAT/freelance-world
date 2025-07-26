@@ -53,7 +53,7 @@ Clone the repository:
 
 Bash
 
-git clone https://github.com/your-username/freelance-world.git
+git clone : https://github.com/MORTALAKSHAT/freelance-world
 cd freelance-world
 Install dependencies: (Assuming Node.js and npm/yarn are installed)
 
